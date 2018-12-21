@@ -1,6 +1,6 @@
 a {
     text-decoration: none;
-    color: #FFCB9A;
+    color: #ff533d;
 }
 
 a:hover {
@@ -10,8 +10,8 @@ a:hover {
 body {
     font-family: 'Ubuntu';
     font-weight: bold;
-    color: #FFCB9A;
-    background-color: #2C3531;
+    color: #ab987a;
+    background-color: #0f1626;
 }
 
 .main {
